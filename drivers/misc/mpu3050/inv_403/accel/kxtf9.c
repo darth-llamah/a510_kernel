@@ -37,8 +37,8 @@
 #endif
 
 #include "mpu.h"
-#include "mlsl.h"
-#include "mlos.h"
+#include "../mlsl.h"
+#include "../mlos.h"
 
 #include <log.h>
 #undef MPL_LOG_TAG
